@@ -1,0 +1,9 @@
+BOOK,B1,Clean Code,Robert Martin,true
+BOOK,B2,Java: The Complete Reference,Herbert Schildt,false
+BOOK,B3,Head First Java,Kathy Sierra,false
+BOOK,B4,Effective Java,Joshua Bloch,true
+BOOK,B5,Introduction to Algorithms,"Cormen, Leiserson, Rivest and Stein",false
+DVD,D1,The Social Network,120,false
+DVD,D2,Hidden Figures,127,false
+DVD,D3,The Imitation Game,114,true
+DVD,D4,Inception,148,true
