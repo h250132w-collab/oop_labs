@@ -1,0 +1,3 @@
+Java makes file handling simple.
+Each line is read one at a time.
+This file has three lines.
